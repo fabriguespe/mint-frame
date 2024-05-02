@@ -18,7 +18,7 @@ where:
 
 ## Development
 
-To kickstart the tutorial, you'll need to clone the repository containing the bot code. Follow these steps:
+To kickstart the tutorial, you'll need to clone the repository containing the code. Follow these steps:
 
 ```bash
 git clone https://github.com/fabriguespe/mint-frame.git
