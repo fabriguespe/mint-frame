@@ -34,17 +34,10 @@ BASE_URL= # frame url
 REDIS_CONNECTION_STRING= # redis connection string
 ```
 
-> ⚠️ Bot kit is not compatible with `bun` yet. Use `npm` or `yarn`
-
 ```bash
 # install dependencies
 yarn install
 
-# running the bot
-yarn build
-yarn start
-
-# to run with hot-reload
-yarn build:watch
-yarn start:watch
+# running the frame
+yarn dev
 ```
